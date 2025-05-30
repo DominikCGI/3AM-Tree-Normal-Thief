@@ -14,7 +14,7 @@ This is especially useful for:
 
     Optimizing stylized foliage in low-poly or mid-poly environments.
 
-🛠 How to Use
+How to Use
 
     Create a reference dome:
 
@@ -32,8 +32,9 @@ This is especially useful for:
 
     Click “Transfer Normals”.
 
-That’s it—your tree now has beautifully blended normals.
-🔍 How It Works (Tech Summary)
+That’s it. Your tree now has beautifully blended normals.
+
+How It Works (Tech Summary)
 
     Builds a KD-tree of triangle centers from the source object.
 
@@ -43,6 +44,6 @@ That’s it—your tree now has beautifully blended normals.
 
     Applies the custom normals non-destructively using Blender's normals_split_custom_set.
 
-🧠 Credits
+Credits
 
 Originally created by Noors, adapted and enhanced by 3AMt for foliage asset workflows.
