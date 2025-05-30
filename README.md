@@ -1,6 +1,7 @@
 🌲 3AM Tree Normal Thief for Blender
 
-Normal Thief is a Blender addon designed to generate realistic shading normals for tree and foliage assets by transferring smoothed normals from a reference object—typically a half-sphere "dome"—to the target tree mesh. This technique greatly enhances how lighting interacts with foliage, creating a more natural and cohesive look in real-time engines or renders.
+Normal Thief is a Blender addon designed to generate realistic shading normals for tree and foliage assets by transferring smoothed normals from a reference object—typically a half-sphere "dome" - to the target tree mesh. This technique greatly enhances how lighting interacts with foliage, creating a more natural and cohesive look in real-time engines or renders.
+
 ✅ Why Use It?
 
 Tree assets often suffer from harsh or unrealistic shading due to their complex geometry. This addon solves that by projecting soft, clean normals from a simplified shape (like a dome) onto the tree mesh, emulating the effect of spherical normals without destroying the mesh topology.
