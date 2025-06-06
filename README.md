@@ -43,7 +43,3 @@ How It Works (Tech Summary)
     Uses barycentric interpolation to compute smooth normals.
 
     Applies the custom normals non-destructively using Blender's normals_split_custom_set.
-
-Credits
-
-Originally created by Noors, adapted and enhanced by 3AMt for foliage asset workflows.
